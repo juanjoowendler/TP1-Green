@@ -1,6 +1,6 @@
 import ollama
 
-llm_model = ollama.chat(model='llama3', messages=[
+llm_model = ollama.chat(model='llama3:8b', messages=[
                         {"role": "user", "content": ""}])['model']
 
 def get_llm_response(prompt, model=llm_model):
