@@ -13,6 +13,11 @@ Additionally, it calculates how many hours of processing can be offset by a newl
 5. **Offset Calculation:** Based on the hourly emissions, it determines how many processing hours are equivalent to the 30 kg of CO₂ absorbed by a tree in one year.  
 6. **Results Export:** Metrics are stored in a `resultados.csv` file and displayed in the console.
 
+## 💻Slides 
+
+Learn more about this project: <a href="https://github.com/juanjoowendler/TP1-GreenSoftware/blob/main/TP1%20Green%20Software.pdf">Click here</a>
+
+
 ## 🛠️ Requirements
 - Python 3.7 or higher  
 - Dependencies listed in `requirements.txt`:
